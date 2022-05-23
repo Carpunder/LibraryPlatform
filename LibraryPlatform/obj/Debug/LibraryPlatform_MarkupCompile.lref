@@ -1,0 +1,16 @@
+﻿
+FE:\LibraryPlatform\LibraryPlatform\App.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\AuthorizationWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Admin\AdminBookUnRegisterWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Admin\AdminBookWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Admin\AdminLogin.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Admin\AdminWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Admin\FromStockWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\BooksLending\MainBooksLendingWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\LibraryFound\LibraryFoundMainWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\LibraryFound\PublisherWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Main\MainWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Readers\ReadersMainWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\Readers\ReadersRegisterWindow.xaml;;
+FE:\LibraryPlatform\LibraryPlatform\Views\ReturnBook\BooksReturnWindow.xaml;;
+
